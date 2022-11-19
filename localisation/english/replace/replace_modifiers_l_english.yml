@@ -1,0 +1,11 @@
+﻿l_japanese:
+ communism_drift:0 "日毎の社会主義への支援"
+ fascism_drift:0 "日毎のプロトファシズムへの支援"
+ communism_acceptance:0 "社会主義者との外交を容認"
+ fascism_acceptance:0 "プロトファシストとの外交を容認"
+ neutrality_drift:0 "日毎の権威主義への支援"
+ neutrality_acceptance:0 "権威主義者との外交を容認"
+ cat_mobile_warfare_cost_factor:0 "機動優位ドクトリンコスト"
+ cat_mass_assault_cost_factor:0 "攻勢至上ドクトリンコスト"
+ tank_manufacturer_cost_factor:1 "装甲車設計社のコスト"
+ scout_plane_design_cost_factor:0 "偵察機ユニット設計コスト"
