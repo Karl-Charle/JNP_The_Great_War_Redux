@@ -1,5 +1,0 @@
-﻿l_japanese:
- RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC:0 "独立国は、大戦後の平時に陣営を去ることができるでしょう。"
- RULE_KICK_FROM_FACTION_ALLOWED_TOOLTIP:0 "陣営の盟主は大戦後に陣営の国を追放できるでしょう。"
- RULE_ALLOW_TAKE_OVER_FACTION_ALLOWED_DESC:0 "各国は基準を満たしていれば、大戦後の平時に陣営主導権を乗っ取ることができるでしょう。"
- RULE_ALLOW_LEAVE_FACTION_BLOCKED_TOOLTIP:0 "ゲームルール：§Y各国は大戦後の平時に陣営を去ることができるでしょう。§!"
